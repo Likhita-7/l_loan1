@@ -1,0 +1,6 @@
+com\entities\CustomerDetails.class
+com\entities\LoanType.class
+com\Dao\DaoImp.class
+com\entities\LoanApplicants.class
+com\entities\LoanNominee.class
+com\services\ServiceClass.class
